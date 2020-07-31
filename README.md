@@ -1,3 +1,3 @@
 # emailcatcher.xyz
 
-(emailcatcher.xyz)
+[link](emailcatcher.xyz)
